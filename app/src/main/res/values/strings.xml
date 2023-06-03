@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">RegistrationApp</string>
+    <string name="codingFactory">Coding Factory</string>
+    <string name="registerFirst">Please Register First</string>
+    <string name="userName">User Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="alreadyHaveAcc">Already have an Account? Login </string>
+    <string name="here">here!</string>
+    <string name="welcome">Welcome</string>
+    <string name="yourRegistrationWith">Your registration with</string>
+    <string name="wasCompleted">was completed.</string>
+
+</resources>
